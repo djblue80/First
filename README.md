@@ -1,2 +1,0 @@
-# First
-First Project ittezan
